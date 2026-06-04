@@ -1,6 +1,1 @@
-# Title: 1Hosts (Xtra) - domains wildcards
-# Description: domains wildcards
-# Homepage: https://github.com/badmojr/1Hosts
-# License: https://github.com/badmojr/1Hosts/blob/master/LICENSE
-# Original Author: badmojr
-@https://raw.githubusercontent.com/badmojr/1Hosts/refs/heads/master/Xtra/domains.wildcards
+

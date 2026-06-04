@@ -3,4 +3,4 @@
 # Homepage: https://github.com/badmojr/1Hosts
 # License: https://github.com/badmojr/1Hosts/blob/master/LICENSE
 # Original Author: badmojr
-@https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Xtra_adblock.txt
+@https://raw.githubusercontent.com/badmojr/1Hosts/refs/heads/master/Xtra/adblock.txt
